@@ -1,0 +1,15 @@
+[
+{
+  "modid": "elementalpets",
+  "name": "Elemental Pets",
+  "description": "Awesome pets of awesomeness!",
+  "version": "0.1a",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["okito122"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
